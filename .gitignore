@@ -1,5 +1,10 @@
 # Folders
-/LabSessions
+
+# Images
+*.png
+*.jpg
+
+### Automatic from Github
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
